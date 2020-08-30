@@ -21,3 +21,5 @@
 1. Open [whereami.we2app.com](http://whereami.we2app.com)
 2. Click the "Share" button
 3. Paste to Twitter, Slack, etc.
+
+
